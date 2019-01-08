@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="thin">#c5de0a</color>
+    <color name="ideal">#0f5c32</color>
+    <color name="surplusweight">#c72c62</color>
+    <color name="overweight">#9b0e36</color>
+    <color name="obese">#2011c6</color>
+</resources>

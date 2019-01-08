@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BodyIndexCalculator</string>
+    <string name="thin">Thin</string>
+    <string name="ideal">Ideal Weight!</string>
+    <string name="surplusweight">Surplus Weight</string>
+    <string name="overweight">Overweight</string>
+    <string name="obese">Obese</string>
+</resources>

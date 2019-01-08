@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="tr.edu.mu.ceng.gui.bodyindexcalculator">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/insan"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/insan"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".bmiGenderActivity" />
+        <activity android:name=".bmrGenderActivity" />
+        <activity android:name=".bmiHeightActivity" />
+        <activity android:name=".bmrHeightActivity" />
+        <activity android:name=".bmiWeightActivity" />
+        <activity android:name=".bmiCalculationActivity" />
+        <activity android:name=".bmrAgeActivity" />
+        <activity android:name=".bmrWeightActivity" />
+        <activity android:name=".bmrGoalActivity" />
+        <activity android:name=".bmrCalculationActivity"></activity>
+    </application>
+
+</manifest>
